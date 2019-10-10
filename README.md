@@ -11,7 +11,7 @@ Independent attributes:
 Dependent variable:
 1. avg_points = average points scored per game
 
-```ml-webapp-main.py is coded in Python 3.7```
+```ml-webapp-main.py``` is coded in Python 3.7
 
 Install Python 3.7 (https://www.python.org/downloads/) and following packages(using pip) before running the script
 
@@ -21,7 +21,8 @@ Packages:
 3. flask
 
 To run the application:
-python3 ml-webapp-main.py
+
+```python3 ml-webapp-main.py```
 
 - Make sure the data files are the same location as py file
 
