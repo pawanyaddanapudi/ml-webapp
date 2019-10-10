@@ -13,7 +13,7 @@ Dependent variable:
 
 ml-webapp-main.py is coded in Python 3.7
 
-Install Python 3.7 and following packages before running the script
+Install Python 3.7 (https://www.python.org/downloads/) and following packages(using pip) before running the script
 
 Packages:
 1. pandas
